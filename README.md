@@ -24,7 +24,7 @@ samples. StandardScaler is fitted only on training data within the
 Logistic Regression, KNN and SVM pipelines.
 
 ## c. GitHub Repository Link
-TO BE ADDED AFTER CREATING THE REPOSITORY
+https://github.com/2026ak05557-cmd/breast-cancer-model-explorer
 
 ## d. Models used
 
@@ -88,7 +88,7 @@ AUC is shown as N/A when the uploaded data contains only one class.
 - Training notebook (.ipynb): source code and execution outputs.
 
 ## Live Streamlit App Link
-TO BE ADDED AFTER DEPLOYMENT
+https://breast-cancer-model-explorer-88tavblgx4a56fxscxzjvq.streamlit.app
 
 ## Execution environment
 Training and local application execution were performed on BITS Virtual Lab.
